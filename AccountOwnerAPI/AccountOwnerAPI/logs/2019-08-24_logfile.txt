@@ -1,0 +1,22 @@
+2019-08-24 22:34:57.8947 INFO Returned all owners from database.
+2019-08-24 22:35:34.9076 INFO Returned all owners from database.
+2019-08-24 22:35:38.0297 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-24 22:35:39.8655 INFO Returned all owners from database.
+2019-08-24 22:39:55.7334 INFO Returned all owners from database.
+2019-08-24 22:45:39.3996 INFO Returned all owners from database.
+2019-08-24 23:25:03.3121 INFO Returned all owners from database.
+2019-08-24 23:44:18.1271 INFO Returned all owners from database.
+2019-08-24 23:44:22.9353 INFO Returned all owners from database.
+2019-08-24 23:45:40.2725 INFO Returned all owners from database.
+2019-08-24 23:45:41.9788 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-24 23:45:48.1508 INFO Returned all owners from database.
+2019-08-24 23:45:52.8428 INFO Returned all owners from database.
+2019-08-24 23:45:57.1465 INFO Returned all owners from database.
+2019-08-24 23:48:00.5562 INFO Returned all owners from database.
+2019-08-24 23:48:04.3611 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-24 23:48:35.1294 INFO Returned all owners from database.
+2019-08-24 23:49:19.1123 INFO Returned all owners from database.
+2019-08-24 23:49:26.6637 INFO Returned owner with id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-24 23:49:50.6795 INFO Returned all owners from database.
+2019-08-24 23:49:57.7867 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-24 23:51:48.2019 INFO Returned all owners from database.

@@ -1,0 +1,58 @@
+2019-08-25 07:40:03.6137 INFO Returned all owners from database.
+2019-08-25 07:40:06.1087 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-25 07:40:17.2953 INFO Returned all owners from database.
+2019-08-25 07:40:20.7513 INFO Returned all owners from database.
+2019-08-25 07:40:29.6568 INFO Returned owner with id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 07:41:39.4134 INFO Returned all owners from database.
+2019-08-25 07:41:42.1573 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 07:54:36.8229 INFO Returned all owners from database.
+2019-08-25 07:54:40.0672 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 07:56:55.5394 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 07:56:59.4658 INFO Returned all owners from database.
+2019-08-25 07:57:04.1462 INFO Returned owner with id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 07:57:23.5634 INFO Returned all owners from database.
+2019-08-25 07:57:56.6720 INFO Returned owner with id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 07:58:18.8412 INFO Returned all owners from database.
+2019-08-25 08:04:24.8352 INFO Returned all owners from database.
+2019-08-25 08:04:31.3698 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-25 08:05:09.0602 INFO Returned all owners from database.
+2019-08-25 08:05:10.0139 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 08:05:13.7588 INFO Returned all owners from database.
+2019-08-25 08:05:14.6994 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 08:05:59.3524 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 08:10:23.6634 INFO Returned all owners from database.
+2019-08-25 08:10:25.2795 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-25 08:44:19.5823 INFO Returned all owners from database.
+2019-08-25 08:44:22.0583 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 08:44:38.5686 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-25 08:44:42.7810 INFO Returned all owners from database.
+2019-08-25 08:44:59.1896 INFO Returned all owners from database.
+2019-08-25 08:45:02.3152 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-25 08:51:48.0625 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-25 08:51:54.4418 ERROR Something went wrong inside GetAllOwners action: Data is Null. This method or property cannot be called on Null values.
+2019-08-25 08:52:03.9456 ERROR Something went wrong inside GetAllOwners action: Data is Null. This method or property cannot be called on Null values.
+2019-08-25 08:52:05.8398 ERROR Something went wrong inside GetAllOwners action: Data is Null. This method or property cannot be called on Null values.
+2019-08-25 08:52:17.9425 ERROR Something went wrong inside GetAllOwners action: Data is Null. This method or property cannot be called on Null values.
+2019-08-25 08:53:15.7364 ERROR Something went wrong inside GetAllOwners action: Data is Null. This method or property cannot be called on Null values.
+2019-08-25 08:55:36.7216 INFO Returned all owners from database.
+2019-08-25 08:55:43.1036 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-08-25 08:55:51.1987 INFO Returned all owners from database.
+2019-08-25 08:55:59.1022 INFO Returned owner with details for id: c15ac797-7678-43a5-8d60-f797d84e5439
+2019-08-25 08:56:04.1129 INFO Returned all owners from database.
+2019-08-25 08:56:07.8316 INFO Returned owner with id: c15ac797-7678-43a5-8d60-f797d84e5439
+2019-08-25 08:56:33.2475 INFO Returned all owners from database.
+2019-08-25 08:56:34.8679 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-25 09:05:53.7271 INFO Returned all owners from database.
+2019-08-25 09:06:03.8869 INFO Returned all owners from database.
+2019-08-25 09:06:07.7646 INFO Returned owner with details for id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 09:06:26.9664 INFO Returned all owners from database.
+2019-08-25 09:06:30.3323 INFO Returned owner with id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 09:09:20.7060 INFO Returned all owners from database.
+2019-08-25 09:09:31.1545 INFO Returned owner with details for id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 09:10:15.1606 INFO Returned all owners from database.
+2019-08-25 09:10:18.3013 INFO Returned owner with id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 09:10:25.4088 INFO Returned all owners from database.
+2019-08-25 09:10:32.5069 INFO Returned owner with details for id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 09:10:36.6757 INFO Returned all owners from database.
+2019-08-25 09:10:40.0655 INFO Returned owner with id: f388c6e8-6556-4fad-a191-2cb647d3ae52
+2019-08-25 09:10:44.9987 INFO Returned all owners from database.
